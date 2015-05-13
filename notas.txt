@@ -1,0 +1,6 @@
+Notas -
+
+Referencia:
+http://www.w3schools.com/css/css_selectors.asp
+https://developer.mozilla.org/es/docs/HTML/HTML5/HTML5_lista_elementos
+http://getbootstrap.com/examples/grid/
